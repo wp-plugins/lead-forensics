@@ -28,9 +28,9 @@
 	add_action('admin_menu', 'plugin_admin_add_wplf_page');
 	add_action('admin_init', 'wplf_register_settings' );
 	add_action('wp_head', 'wplf_place_tracking_code');
-	add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'my_plugin_action_links' );
+	add_filter( 'plugin_action_links_' . plugin_basename(__FILE__), 'wplf_plugin_action_links' );
 
-	function my_plugin_action_links( $links ) {
+	function wplf_plugin_action_links( $links ) {
    		$links[] = '<a href="'. esc_url( get_admin_url(null, 'options-general.php?page=wplf_plugin') ) .'">Settings</a>';
    		return $links;
 	}
