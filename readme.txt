@@ -1,7 +1,7 @@
 === Plugin Name ===
 Contributors: douglaskarr
 Donate link: http://www.dknewmedia.com
-Tags: leadforensics, lead-forensics, leads, tracking-code, b2b, anonymous visitors, sales, sales leads
+Tags: leadforensics, lead-forensics, leads, tracking-code, b2b, anonymous visitors, sales, sales leads, lead forensics
 Requires at least: 3.0.1
 Tested up to: 4.2.2
 Stable tag: 1.0
