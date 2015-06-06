@@ -3,7 +3,7 @@ Contributors: douglaskarr
 Donate link: http://www.dknewmedia.com
 Tags: leadforensics, lead-forensics, leads, tracking-code, b2b, anonymous visitors, sales, sales leads
 Requires at least: 3.0.1
-Tested up to: 4.1.5
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,8 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 [youtube https://www.youtube.com/watch?v=gP-Ol1AfBoQ]
 
-Lead Forensics Features:
+Lead Forensics Features
+
 * Identify your anonymous business visitors and access their business name, telephone number, address, industry and company size.
 * Close sales you never knew you had since 98% of businesses don’t make an inquiry
 * Take action on leads before your competitors, create watch lists and even assign leads my geography
