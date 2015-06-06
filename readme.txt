@@ -9,7 +9,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
-[Lead Forensics](http://lead-generation.leadforensics.com/partnership-marketing-tech-blog/?utm_source=plugin-readme&utm_medium=description&utm_campaign=1) allows you to Turn your anonymous website visitors into sales leads, convert new business opportunities before your competitiors and increase your online ROI. This plugin allows you to easily add your tracking code from <a href=““ target=“_blank”>Lead Forensics</a> to the head of your WordPress site. 
+[Lead Forensics](http://lead-generation.leadforensics.com/partnership-marketing-tech-blog/?utm_source=plugin-readme&utm_medium=description&utm_campaign=1) allows you to Turn your anonymous website visitors into sales leads, convert new business opportunities before your competitiors and increase your online ROI. This plugin allows you to easily add your tracking code from [Lead Forensics](http://lead-generation.leadforensics.com/partnership-marketing-tech-blog/?utm_source=plugin-readme&utm_medium=description&utm_campaign=1) to the head of your WordPress site. 
 
 [youtube https://www.youtube.com/watch?v=gP-Ol1AfBoQ]
 
