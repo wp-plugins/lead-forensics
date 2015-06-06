@@ -3,7 +3,7 @@
 	Plugin Name: Lead Forensics
 	Plugin URI: http://wordpress.org/extend/plugins/leadforensics/
 	Description: Easily implement your Lead Forensics tracking code in WordPress
-	Version: 1.0.1
+	Version: 1.0
 	Author: Douglas Karr
 	Author URI: http://www.dknewmedia.com
 
