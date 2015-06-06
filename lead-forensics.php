@@ -51,9 +51,9 @@
     	<?php submit_button(); ?>
 
 		</form>
-		<p><small>This plugin was developed by <a href="http://www.dknewmedia.com" target="_blank">DK New Media</a> at no cost to <a href="https://www.marketingtechblog.com/b2b-identify-website-visitors/">Lead Forensics</a>, but we've included a landing page where we are compensated for referrals.</small></p>
 		<h3>About Lead Forensics</h3>
 		<p><iframe width="640" height="360" src="https://www.youtube.com/embed/gP-Ol1AfBoQ?showinfo=0" frameborder="0" allowfullscreen></iframe></p>
+		<p><small>This plugin was developed by <a href="http://www.dknewmedia.com" target="_blank">DK New Media</a> at no cost to <a href="https://www.marketingtechblog.com/b2b-identify-website-visitors/">Lead Forensics</a>, but we've included a landing page where we are compensated for referrals.</small></p>
 		</div>	
 		<?php
 	}
